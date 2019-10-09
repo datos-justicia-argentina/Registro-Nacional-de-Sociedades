@@ -1,7 +1,7 @@
 Registro Nacional de Sociedades
 ===============================
 
-Este conjunto de datos contiene información de sociedades accionarias y no accionarias argentinas, de sociedades extranjeras, de asociaciones civiles y de fundaciones, según lo disponen las leyes N° 26.047 y 27.444.
+Este conjunto de datos contiene información de sociedades accionarias y no accionarias argentinas, de sociedades extranjeras, de asociaciones civiles y de fundaciones, según lo disponen las [leyes N° 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) y [27.444](http://servicios.infoleg.gob.ar/infolegInternet/anexos/310000-314999/311587/norma.htm).
 
 http://datos.jus.gob.ar/dataset/registro-nacional-de-sociedades
 
@@ -42,47 +42,47 @@ Recursos disponibles
 
 -   **fecha_contrato_social (date):**
 
--   **tipo_societario (string):**
+-   **tipo_societario (string):** describe el tipo de societario. Algunos ejemplos son: SOCIEDAD ANONIMA, SOCIEDAD DEL ESTADO, ASOCIACION CIVIL, COOPERATIVA, FUNDACION, etc.
 
 -   **fecha_actualizacion (date):**
 
--   **numero_inscripcion (int):**
+-   **numero_inscripcion (int):** número con el que es incripta la sociedad
 
--   **domicilio_fiscal (string):**
+-   **domicilio_fiscal (string):** indica si es el domicilio fiscal de la sociedad
 
--   **df_provincia (string):**
+-   **df_provincia (string):** provincia del domicilio fiscal de la sociedad
 
--   **df_localidad (string):**
+-   **df_localidad (string):** localidad del domicilio fiscal de la sociedad
 
--   **df_calle (string):**
+-   **df_calle (string):** calle del domicilio fiscal de la sociedad
 
--   **df_numero (int):**
+-   **df_numero (int):** número del domicilio fiscal de la sociedad
 
--   **df_piso (int):**
+-   **df_piso (int):** piso del domicilio fiscal de la sociedad
 
--   **df_departamento (string):**
+-   **df_departamento (string):** departamento del domicilio fiscal de la sociedad
 
--   **df_cp (int):**
+-   **df_cp (int):** código postal del domicilio fiscal de la sociedad
 
--   **df_estado_domicilio (string):**
+-   **df_estado_domicilio (string):** estado del domicilio fiscal de la sociedad. Algunos ejemplos son: ARCHIVADO, CONFIRMADO, DECLARADO, INEXISTENTE - DESCONOCIDO, NO CONFIRMADO, etc.
 
--   **domicilio_legal (string):**
+-   **domicilio_legal (string):** indica si es el domicilio legal de la sociedad
 
--   **dl_provincia (string):**
+-   **dl_provincia (string):** provincia del domicilio legal de la sociedad
 
--   **dl_localidad (string):**
+-   **dl_localidad (string):** localidad del domicilio legal de la sociedad
 
--   **dl_calle (string):**
+-   **dl_calle (string):** calle del domicilio legal de la sociedad
 
--   **dl_numero (int):**
+-   **dl_numero (int):** número del domicilio legal de la sociedad
 
--   **dl_piso (int):**
+-   **dl_piso (int):** piso del domicilio legal de la sociedad
 
--   **dl_departamento (string):**
+-   **dl_departamento (string):** departamento del domicilio legal de la sociedad
 
--   **dl_cp (int):**
+-   **dl_cp (int):** código postal del domicilio legal de la sociedad
 
--   **dl_estado_domicilio (string):**
+-   **dl_estado_domicilio (string):** estado del domicilio legal de la sociedad. Algunos ejemplos son: CONFIRMADO, CONSTITUIDO DE OFICIO, DECLARADO, NO CONFIRMADO, etc.
 
 ### Notas
 
