@@ -3,7 +3,7 @@ Registro Nacional de Sociedades
 
 El Registro Nacional de Sociedades publica ciertos datos públicos provistos por AFIP a la Dirección del Registro Nacional de Sociedades y Concursos y Quiebras respecto de las personas jurídicas nacionales o extranjeras incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) que estén inscriptas en cualquier registro público de comercio de las provincias argentinas y de la CABA. 
 
-La publicación se realiza y puede ser consultada por CUIT o por denominación social, en forma gratuita en la página web https://www.argentina.gob.ar/justicia/registro-nacional-sociedades. Está disponible los 365 días del año desde el 07/05/2019.
+La publicación se realiza y puede ser consultada por CUIT o por denominación social, en forma gratuita en la página web https://www.argentina.gob.ar/justicia/registro-nacional-sociedades. Está disponible los 365 días. La plataforma online se encuentra activa desde el 07 de mayo de 2019.
 
 http://datos.jus.gob.ar/dataset/registro-nacional-de-sociedades
 
