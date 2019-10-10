@@ -100,8 +100,8 @@ Recursos disponibles
 
 [Disposiciones por las que se regirán el Registro Nacional de Sociedades por Acciones, los Registros Nacionales de Sociedades Extranjeras y de Asociaciones Civiles y Fundaciones y el Registro Nacional de Sociedades no Accionarias](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm)
 
-[Ley de Asociaciones Civiles](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/456/norma.htm)
+[Ley Nº 24.057 - Asociaciones Civiles](http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/456/norma.htm)
 
-[Ley de Sociedades Comerciales](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25553/texact.htm)
+[Ley Nº 19.550 - Sociedades Comerciales](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25553/texact.htm)
 
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 986 del Ministerio de Justicia y Derechos Humanos](), del DD de MM de AAAA.
