@@ -5,6 +5,8 @@ El Registro Nacional de Sociedades publica ciertos datos públicos provistos por
 
 La publicación se realiza y puede ser consultada por CUIT o por denominación social, en forma gratuita en la página web https://www.argentina.gob.ar/justicia/registro-nacional-sociedades. Está disponible los 365 días del año. La plataforma online se encuentra activa desde el 07 de mayo de 2019.
 
+La fuente de estos datos corresponde al Padrón Federal de Personas Jurídicas de la Administración Federal de Ingresos Públicos brindada al Ministerio de Justicia y Derechos Humanos en el marco del Acuerdo de Colaboración suscripto para la implementación conjunta de la Ley 26.047 que crea el Registro Nacional de Sociedades previsto por el Artículo 8° de la [Ley 19.550](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25553/texact.htm).
+
 http://datos.jus.gob.ar/dataset/registro-nacional-de-sociedades
 
 Características
@@ -15,7 +17,7 @@ Características
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras
 
--   **Autor:** 
+-   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras – Fuente: Padrón Federal de Personas Jurídicas de la AFIP
 
 -   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras
 
