@@ -62,7 +62,7 @@ Recursos disponibles
 
 -   **dom_fiscal_piso (int):** piso del domicilio fiscal de la sociedad
 
--   **dom_fiscalf_departamento (string):** departamento del domicilio fiscal de la sociedad
+-   **dom_fiscal_departamento (string):** departamento del domicilio fiscal de la sociedad
 
 -   **dom_fiscal_cp (int):** código postal del domicilio fiscal de la sociedad
 
