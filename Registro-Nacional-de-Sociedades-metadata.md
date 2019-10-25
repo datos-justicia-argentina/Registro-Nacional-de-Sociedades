@@ -32,7 +32,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-nacional-sociedades-AAAAMM.csv
 
--   **Descripción del contenido:** datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm)
+-   **Descripción del contenido:** datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm).
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
@@ -83,6 +83,12 @@ Recursos disponibles
 -   **dom_legal_cp (int):** código postal del domicilio legal de la sociedad
 
 -   **dom_legal_estado_domicilio (string):** estado del domicilio legal de la sociedad. Algunos ejemplos son: CONFIRMADO, CONSTITUIDO DE OFICIO, DECLARADO, NO CONFIRMADO, etc.
+
+-   **Nombre del archivo:** registro-nacional-sociedades-AAAA.zip
+
+-   **Descripción del contenido:** datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) en el año AAAA.
+
+-   **Formato:** ZIP
 
 ### Notas
 
