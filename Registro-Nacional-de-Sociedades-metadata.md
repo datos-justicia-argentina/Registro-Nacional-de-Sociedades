@@ -11,7 +11,7 @@ http://datos.jus.gob.ar/dataset/registro-nacional-de-sociedades
 
 Características
 
--   **Fecha de Primera Publicación:**
+-   **Fecha de Primera Publicación:** 13/11/2019
 
 -   **Tags o Etiquetas:** sociedades, fundaciones, asociaciones civiles, sociedades anónimas, sociedades comerciales, sociedades extranjeras, sociedades accionarias
 
