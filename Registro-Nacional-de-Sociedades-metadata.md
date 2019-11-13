@@ -112,4 +112,4 @@ Recursos disponibles
 
 [Ley Nº 19.550 - Sociedades Comerciales](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25553/texact.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº ...... del Ministerio de Justicia y Derechos Humanos](), del DD de MM de AAAA.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 1238 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2019-1238-APN-MJ.pdf), del 13 de noviembre de 2019.
