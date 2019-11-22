@@ -28,11 +28,11 @@ Características
 Recursos disponibles
 --------------------
 
-### Registro Nacional de Sociedades - AAAAMM
+### Registro Nacional de Sociedades - AAAAMM - Muestreo
 
--   **Nombre del archivo:** registro-nacional-sociedades-AAAAMM.csv
+-   **Nombre del archivo:** registro-nacional-sociedades-AAAAMM-muestreo.csv
 
--   **Descripción del contenido:** datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm). Los archivos se actualizan una vez por mes, en base a la publicación que hace AFIP al MJYDH los días 15 de cada mes.
+-   **Descripción del contenido:** Muestre de 1000 registros de odatos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm). Los archivos se actualizan una vez por mes, en base a la publicación que hace AFIP al MJYDH los días 15 de cada mes. Los datos completos están publicados en formato zip.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
