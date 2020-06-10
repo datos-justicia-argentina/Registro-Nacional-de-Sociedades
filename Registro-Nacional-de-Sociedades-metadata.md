@@ -13,7 +13,7 @@ Características
 
 -   **Fecha de Primera Publicación:** 13/11/2019
 
--   **Tags o Etiquetas:** sociedades, fundaciones, asociaciones civiles, sociedades anónimas, sociedades comerciales, sociedades extranjeras, sociedades accionarias
+-   **Tags o Etiquetas:** sociedades, fundaciones, asociaciones civiles, sociedades anónimas, sociedades comerciales, sociedades extranjeras, sociedades accionarias, rns
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras
 
@@ -28,9 +28,9 @@ Características
 Recursos disponibles
 --------------------
 
-### Registro Nacional de Sociedades - AAAAMM - Muestreo
+### Registro Nacional de Sociedades - Muestreo
 
--   **Nombre del archivo:** registro-nacional-sociedades-AAAAMM-muestreo.csv
+-   **Nombre del archivo:** registro-nacional-sociedades-muestreo.csv
 
 -   **Descripción del contenido:** Muestre de 1000 registros de datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm). Los archivos se actualizan una vez por mes, en base a la publicación que hace AFIP al MJYDH los días 15 de cada mes. Los datos completos están publicados en formato zip.
 
