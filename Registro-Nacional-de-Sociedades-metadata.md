@@ -88,7 +88,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-nacional-sociedades-AAAA-semestre-9.zip
 
--   **Descripción del contenido:** datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) correspondientes al semestre 9 del año AAAA. El archivo del año 2019 contiene los dos semestres de dicho año. 
+-   **Descripción del contenido:** datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) correspondientes al semestre 9 del año AAAA. El archivo del año 2019 contiene los dos semestres de dicho año. Semestre 9: Toma valores 1 y 2 (1 para referenciar el primer semestre del año y 2 para el segundo semestre del año).
 
 -   **Formato:** ZIP
 
