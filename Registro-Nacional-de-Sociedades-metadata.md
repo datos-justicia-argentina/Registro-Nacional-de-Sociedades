@@ -44,11 +44,11 @@ Recursos disponibles
 
 -   **razon_social (string):** denominación social. En general no incluye el tipo societario
 
--   **fecha_contrato_social (date):** fecha de celebración de acuerdo o contrato social o asociativo
+-   **fecha_hora_contrato_social (date):** fecha de celebración de acuerdo o contrato social o asociativo
 
 -   **tipo_societario (string):** tipo de societario. Algunos ejemplos son: SOCIEDAD ANONIMA, SOCIEDAD EXTRANJERA, ASOCIACION CIVIL, COOPERATIVA, FUNDACION, etc.
 
--   **fecha_actualizacion (date):** indica la fecha en que cualquiera de los campos ha sido modificado. Como el padrón inicial para RNS se elaboró el 13/11/2018, las modificaciones previas a esa fecha no van a estar incluidas
+-   **fecha_hora_actualizacion (date):** indica la fecha en que cualquiera de los campos ha sido modificado. Como el padrón inicial para RNS se elaboró el 13/11/2018, las modificaciones previas a esa fecha no van a estar incluidas
 
 -   **numero_inscripcion (int):** corresponde al número de identificación de la persona jurídica asignado el registro público de comercio local a la sociedad. Este dato todavía no se encuentra disponible
 
