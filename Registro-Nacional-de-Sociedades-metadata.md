@@ -15,11 +15,11 @@ Características
 
 -   **Tags o Etiquetas:** sociedades, fundaciones, asociaciones civiles, sociedades anónimas, sociedades comerciales, sociedades extranjeras, sociedades accionarias, rns
 
--   **Organización:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras
+-   **Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras
 
--   **Autor:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras – Fuente: Padrón Federal de Personas Jurídicas de la AFIP
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras – Fuente: Padrón Federal de Personas Jurídicas de la AFIP
 
--   **Responsable:** Ministerio de Justicia y Derechos Humanos. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras
+-   **Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras
 
 -   **Grupo:** Sistema Registral
 
@@ -112,4 +112,4 @@ Recursos disponibles
 
 [Ley Nº 19.550 - Sociedades Comerciales](http://servicios.infoleg.gob.ar/infolegInternet/anexos/25000-29999/25553/texact.htm)
 
-Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 1238 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2019-1238-APN-MJ.pdf), del 13 de noviembre de 2019.
+Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 1238 del Ministerio de Justicia](http://datos.jus.gob.ar/resoluciones/RESOL-2019-1238-APN-MJ.pdf), del 13 de noviembre de 2019.
