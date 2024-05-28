@@ -32,7 +32,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-nacional-sociedades-muestreo.csv
 
--   **Descripción del contenido:** Muestre de 1000 registros de datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm). Los archivos se actualizan una vez por mes, en base a la publicación que hace AFIP al MJYDH los días 15 de cada mes. Los datos completos están publicados en formato zip.
+-   **Descripción del contenido:** Muestre de 1000 registros de datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm). Los archivos se actualizan una vez por mes, en base a la publicación que hace AFIP al Ministerio de Justicia los días 15 de cada mes. Los datos completos están publicados en formato zip.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
