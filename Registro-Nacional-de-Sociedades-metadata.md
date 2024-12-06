@@ -84,6 +84,18 @@ Recursos disponibles
 
 -   **dom_legal_estado_domicilio (string):** estado del domicilio legal de la sociedad. Algunos ejemplos son: CONFIRMADO, CONSTITUIDO DE OFICIO, DECLARADO, NO CONFIRMADO, etc.
 
+-   **actividad_codigo (string):** código de la actividad (a partir de diciembre de 2024)
+
+-   **actividad_descripcion (string):** descripción de la actividad (a partir de diciembre de 2024)
+
+-   **actividad_orden (int):** 0 - Monotributista 1 - Actividad principal 2 - Actividad secuendaria (a partir de diciembre de 2024)
+
+-   **actividad_codigo (string):** código de la actividad (a partir de diciembre de 2024)
+
+-   **actividad_estado (string):** código de la actividad (a partir de diciembre de 2024)
+
+-   **actividad_vigencia (string):** vigencia de la actividad (a partir de diciembre de 2024)
+
 ### Registro Nacional de Sociedades - AAAA semestre 9
 
 -   **Nombre del archivo:** registro-nacional-sociedades-AAAA-semestre-9.zip
