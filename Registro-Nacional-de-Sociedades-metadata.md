@@ -88,7 +88,7 @@ Recursos disponibles
 
 -   **actividad_descripcion (string):** descripción de la actividad (a partir de diciembre de 2024)
 
--   **actividad_orden (int):** 0 - Monotributista 1 - Actividad principal 2 - Actividad secuendaria (a partir de diciembre de 2024)
+-   **actividad_orden (int):** 0 - Monotributista 1 - Actividad principal 2 en adelante - Actividad secuendaria (a partir de diciembre de 2024)
 
 -   **actividad_codigo (string):** código de la actividad (a partir de diciembre de 2024)
 
