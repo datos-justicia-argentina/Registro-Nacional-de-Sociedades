@@ -104,6 +104,28 @@ Recursos disponibles
 
 -   **Formato:** ZIP
 
+### Registro Nacional de Sociedades - Asociaciones sin fines de lucro - AAAAMM
+
+-   **Nombre del archivo:** registro-nacional-sociedades-asociaciones-sin-fines-lucro-AAAAMM.csv
+
+-   **Descripción del contenido:** Registros de datos suministrados por la AFIP de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
+-   
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
+
+-   **Rango temporal:** las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) dadas de alta en AFIP hasta la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+  Idem recurso  ** Registro Nacional de Sociedades - Muestreo
+
+### Registro Nacional de Sociedades - Asociaciones sin fines de lucro - AAAA
+
+-   **Nombre del archivo:** registro-nacional-sociedades-asociaciones-sin-fines-lucro-AAAA.zip
+
+-   **Descripción del contenido:** Datos suministrados por la AFIP de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro en 2025. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
+-   
+
+-   **Formato:** ZIP
+
 ### Notas
 
 ### Consideraciones para la interpretación de los datos
