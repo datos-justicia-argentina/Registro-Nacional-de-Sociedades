@@ -1,7 +1,7 @@
 Registro Nacional de Sociedades
 ===============================
 
-El Registro Nacional de Sociedades publica ciertos datos públicos provistos por AFIP a la Dirección del Registro Nacional de Sociedades y Concursos y Quiebras respecto de las personas jurídicas nacionales o extranjeras incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) que estén inscriptas en cualquier registro público de comercio de las provincias argentinas y de la CABA. 
+El Registro Nacional de Sociedades publica ciertos datos públicos provistos por ARCA a la Dirección del Registro Nacional de Sociedades y Concursos y Quiebras respecto de las personas jurídicas nacionales o extranjeras incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) que estén inscriptas en cualquier registro público de comercio de las provincias argentinas y de la CABA. 
 
 La publicación se realiza y puede ser consultada por CUIT o por denominación social, en forma gratuita en la página web https://www.argentina.gob.ar/justicia/registro-nacional-sociedades. Está disponible los 365 días del año. La plataforma online se encuentra activa desde el 07 de mayo de 2019.
 
@@ -17,7 +17,7 @@ Características
 
 -   **Organización:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras
 
--   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras – Fuente: Padrón Federal de Personas Jurídicas de la AFIP
+-   **Autor:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras – Fuente: Padrón Federal de Personas Jurídicas de la ARCA
 
 -   **Responsable:** Ministerio de Justicia. Subsecretaría de Asuntos Registrales. Dirección del Registro Nacional de Sociedades y Concursos y Quiebras
 
@@ -32,11 +32,11 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-nacional-sociedades-muestreo.csv
 
--   **Descripción del contenido:** Muestre de 1000 registros de datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm). Los archivos se actualizan una vez por mes, en base a la publicación que hace AFIP al Ministerio de Justicia los días 15 de cada mes. Los datos completos están publicados en formato zip.
+-   **Descripción del contenido:** Muestre de 1000 registros de datos suministrados por la ARCA de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm). Los archivos se actualizan una vez por mes, en base a la publicación que hace ARCA al Ministerio de Justicia los días 15 de cada mes. Los datos completos están publicados en formato zip.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) dadas de alta en AFIP hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) dadas de alta en ARCA hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
@@ -100,7 +100,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-nacional-sociedades-AAAA-semestre-9.zip
 
--   **Descripción del contenido:** datos suministrados por la AFIP de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) correspondientes al semestre 9 del año AAAA. El archivo del año 2019 contiene los dos semestres de dicho año. Semestre 9: Toma valores 1 y 2 (1 para referenciar el primer semestre del año y 2 para el segundo semestre del año).
+-   **Descripción del contenido:** datos suministrados por la ARCA de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) correspondientes al semestre 9 del año AAAA. El archivo del año 2019 contiene los dos semestres de dicho año. Semestre 9: Toma valores 1 y 2 (1 para referenciar el primer semestre del año y 2 para el segundo semestre del año).
 
 -   **Formato:** ZIP
 
@@ -108,11 +108,11 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-nacional-sociedades-asociaciones-sin-fines-lucro-AAAAMM.csv
 
--   **Descripción del contenido:** Registros de datos suministrados por la AFIP de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
+-   **Descripción del contenido:** Registros de datos suministrados por la ARCA de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) dadas de alta en AFIP hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) dadas de alta en ARCA hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
   Idem recurso **Registro Nacional de Sociedades - Muestreo**
@@ -121,7 +121,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-nacional-sociedades-asociaciones-sin-fines-lucro-AAAA.zip
 
--   **Descripción del contenido:** Datos suministrados por la AFIP de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro en 2025. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
+-   **Descripción del contenido:** Datos suministrados por la ARCA de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro en 2025. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
 
 -   **Formato:** ZIP
 
@@ -131,11 +131,11 @@ Recursos disponibles
 
 **Tipo societario:** La base de datos incluye los CUIT/CDI de todas las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm). No incluye CUIT que corresponden a contratos (ej. UTE o Fideicomisos) o a agrupaciones comerciales (ej. Acuerdos de Colaboración Empresaria) no incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm). Incluye personas jurídicas extranjeras que posean CUIT o CDI.
 
-**Domicilio legal:** Corresponde al domicilio registrado en AFIP al momento de dar de alta en impuestos a la persona jurídica. En algún caso puede ser información histórica que requiera actualización. 
+**Domicilio legal:** Corresponde al domicilio registrado en ARCA al momento de dar de alta en impuestos a la persona jurídica. En algún caso puede ser información histórica que requiera actualización. 
 
-**Domicilio fiscal:** Corresponde al domicilio registrado en AFIP, según es actualizado y verificado periódicamente por la autoridad impositva.
+**Domicilio fiscal:** Corresponde al domicilio registrado en ARCA, según es actualizado y verificado periódicamente por la autoridad impositva.
 
-**Estado de domicilio:** Las referencias que arroja este campo pertenecen al criterio establecido por AFIP. Se encuentran detalladas y explicadas en la página web: https://www.argentina.gob.ar/justicia/registro-nacional-sociedades/referencias
+**Estado de domicilio:** Las referencias que arroja este campo pertenecen al criterio establecido por ARCA. Se encuentran detalladas y explicadas en la página web: https://www.argentina.gob.ar/justicia/registro-nacional-sociedades/referencias
 
 **Ambito de vigencia:** La información corresponde al Registro Nacional de Sociedades en el marco de la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm), modificada por la [Ley 27.444](http://servicios.infoleg.gob.ar/infolegInternet/anexos/310000-314999/311587/norma.htm) vigente para toda la República Argentina.
 
