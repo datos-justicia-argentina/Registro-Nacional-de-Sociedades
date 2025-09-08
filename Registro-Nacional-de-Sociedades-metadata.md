@@ -115,7 +115,7 @@ Recursos disponibles
 -   **Rango temporal:** las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) dadas de alta en AFIP hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
-  Idem recurso  ** Registro Nacional de Sociedades - Muestreo **
+  Idem recurso **Registro Nacional de Sociedades - Muestreo**
 
 ### Registro Nacional de Sociedades - Asociaciones sin fines de lucro - AAAA
 
