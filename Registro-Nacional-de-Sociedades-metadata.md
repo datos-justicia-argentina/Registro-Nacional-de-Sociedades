@@ -122,7 +122,6 @@ Recursos disponibles
 -   **Nombre del archivo:** registro-nacional-sociedades-asociaciones-sin-fines-lucro-AAAA.zip
 
 -   **Descripción del contenido:** Datos suministrados por la AFIP de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro en 2025. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
--   
 
 -   **Formato:** ZIP
 
