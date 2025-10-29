@@ -90,7 +90,7 @@ Recursos disponibles
 
 -   **actividad_orden (int):** 0 - Monotributista 1 - Actividad principal 2 en adelante - Actividad secuendaria (a partir de diciembre de 2024)
 
--   **actividad_estado (string):** código del estado de la actividad: valores posibles: AC y BD (a partir de diciembre de 2024)
+-   **actividad_estado (string):** código del estado de la actividad: valores posibles: AC -> Activa y BD -> Baja Definitiva (a partir de diciembre de 2024)
 
 -   **actividad_vigencia (string):** vigencia de la actividad (a partir de diciembre de 2024)
 
