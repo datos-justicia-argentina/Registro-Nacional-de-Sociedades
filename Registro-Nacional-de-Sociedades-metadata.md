@@ -102,9 +102,9 @@ Recursos disponibles
 
 -   **Formato:** ZIP
 
-### Registro Nacional de Sociedades - Asociaciones sin fines de lucro - AAAAMM
+### Registro Nacional de Sociedades - Asociaciones sin fines de lucro - AAAAMMDD
 
--   **Nombre del archivo:** registro-nacional-sociedades-asociaciones-sin-fines-lucro-AAAAMM.csv
+-   **Nombre del archivo:** registro-nacional-sociedades-asociaciones-sin-fines-lucro-AAAAMMDD.csv
 
 -   **Descripción del contenido:** Registros de datos suministrados por la ARCA de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
 
