@@ -94,23 +94,22 @@ Recursos disponibles
 
 -   **actividad_vigencia (string):** vigencia de la actividad (a partir de diciembre de 2024)
 
-### Registro Nacional de Sociedades - AAAA semestre 9
+### Registro Nacional de Sociedades - AAAA
 
--   **Nombre del archivo:** registro-nacional-sociedades-AAAA-semestre-9.zip
+-   **Nombre del archivo:** registro-nacional-sociedades-AAAA.zip
 
--   **Descripción del contenido:** datos suministrados por la ARCA de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) correspondientes al semestre 9 del año AAAA. El archivo del año 2019 contiene los dos semestres de dicho año. Semestre 9: Toma valores 1 y 2 (1 para referenciar el primer semestre del año y 2 para el segundo semestre del año).
-
+-   **Descripción del contenido:** datos suministrados por la ARCA de las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) correspondientes al último archivo remitido del año AAAA. Aclaración: el archivo correspondiente al año 2019 contiene también el primer archivo remitido.
 -   **Formato:** ZIP
 
 ### Registro Nacional de Sociedades - Asociaciones sin fines de lucro - AAAAMMDD
 
 -   **Nombre del archivo:** registro-nacional-sociedades-asociaciones-sin-fines-lucro-AAAAMMDD.csv
 
--   **Descripción del contenido:** Registros de datos suministrados por la ARCA de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
+-   **Descripción del contenido:** Registros de datos suministrados por la ARCA de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro hasta la fecha AAAAMMDD. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) dadas de alta en ARCA hasta la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** las personas jurídicas incluidas en la [Ley 26.047](http://servicios.infoleg.gob.ar/infolegInternet/anexos/105000-109999/108436/norma.htm) dadas de alta en ARCA en el último archivo remitido el día AAAAMMDD. 
 
 ### Campos del recurso
   Idem recurso **Registro Nacional de Sociedades - Muestreo**
@@ -119,7 +118,7 @@ Recursos disponibles
 
 -   **Nombre del archivo:** registro-nacional-sociedades-asociaciones-sin-fines-lucro-AAAA.zip
 
--   **Descripción del contenido:** Datos suministrados por la ARCA de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro en 2025. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
+-   **Descripción del contenido:** Datos suministrados por la ARCA de las personas jurídicas incluidas en la Ley 26.047 referidas a asociaciones sin fines de lucro en el último archivo reportado para el año AAAA. (Asociaciones civiles, Asociaciones civiles extranjeras, Fundaciones y Simples asociaciones).
 
 -   **Formato:** ZIP
 
